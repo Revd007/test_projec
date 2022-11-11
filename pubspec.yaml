@@ -32,6 +32,12 @@ dependencies:
   flutter:
     sdk: flutter
   flutter_svg: ^1.1.6
+  carousel_slider: ^4.1.1
+  flutter_slider_indicator: ^1.0.0
+  bloc: 8.1.0
+  flutter_bloc: 8.1.1
+  equatable: 2.0.5
+  provider: 6.0.4
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.2
@@ -68,6 +74,13 @@ flutter:
     - ic_mail.svg
     - ic_call.svg
     - ic_back.svg
+    - img.png
+    - ic_image.png
+    - img_slider.png
+    - ic_home.png
+    - ic_calendar.png
+    - ic_user.png
+    - ic_back.png
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware
