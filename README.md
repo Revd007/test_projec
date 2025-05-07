@@ -1,16 +1,109 @@
-# test_project
+# 👋 Selamat Datang di Profil GitHub Saya!
 
-A new Flutter project.
+<div align="center">
+  
+  ![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Software%20Engineer%20&%20Network%20Specialist&fontSize=40&fontAlignY=35&animation=fadeIn)
 
-## Getting Started
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Network+Security+Specialist;System+Administrator;Always+Learning+New+Technologies)](https://git.io/typing-svg)
+  
+</div>
 
-This project is a starting point for a Flutter application.
+## 🚀 Tech Stack & Skills
 
-A few resources to get you started if this is your first Flutter project:
+<div align="center">
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### 💻 Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 🛠️ Frameworks & Libraries
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET MVC](https://img.shields.io/badge/ASP.NET_MVC-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+### 🗄️ Databases
+![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+### ☁️ Cloud & DevOps
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![API Development](https://img.shields.io/badge/API_Development-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+### 🔐 Network Security
+![Network Security](https://img.shields.io/badge/Network_Security-2C2D72?style=for-the-badge&logo=Cloudflare&logoColor=white)
+![Mikrotik](https://img.shields.io/badge/Mikrotik-293239?style=for-the-badge&logo=mikrotik&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Juniper](https://img.shields.io/badge/Juniper-84B135?style=for-the-badge&logo=Juniper-Networks&logoColor=white)
+
+### 🔧 System Administration
+![Microsoft](https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+</div>
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+## 🎮 Mini Game: Tech Stack Memory Match
+
+<details>
+<summary>👆 Klik untuk bermain Memory Match Game! 👆</summary>
+
+<div align="center">
+  
+### 🎲 Memory Match Game
+  
+Silakan kunjungi: https://tech-memory-match.netlify.app
+  
+atau gunakan versi embedded di bawah ini:
+
+```html
+<!-- Game akan muncul di sini saat di-deploy -->
+<div id="memory-game">
+  <div class="card" data-tech="python">Python</div>
+  <div class="card" data-tech="csharp">C#</div>
+  <div class="card" data-tech="sql">SQL</div>
+  <div class="card" data-tech="dotnet">.NET</div>
+  <div class="card" data-tech="flutter">Flutter</div>
+  <div class="card" data-tech="cisco">Cisco</div>
+  <div class="card" data-tech="python">Python</div>
+  <div class="card" data-tech="csharp">C#</div>
+  <div class="card" data-tech="sql">SQL</div>
+  <div class="card" data-tech="dotnet">.NET</div>
+  <div class="card" data-tech="flutter">Flutter</div>
+  <div class="card" data-tech="cisco">Cisco</div>
+</div>
+```
+
+Instruksi: Temukan semua pasangan yang cocok dengan mengklik kartu untuk membalikannya.
+
+</div>
+</details>
+
+## 📱 Connect With Me
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOURUSERNAME)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOURUSERNAME)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://YOURWEBSITE.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR@EMAIL.com)
+  
+</div>
+
+---
+
+<div align="center">
+  
+  [![Visitors](https://visitor-badge.glitch.me/badge?page_id=YOURUSERNAME.YOURUSERNAME)](https://github.com/YOURUSERNAME)
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+  
+</div>
+
+<!-- Tambahkan URL profil Anda pada bagian yang ditandai YOURUSERNAME dan YOUR@EMAIL.com -->
